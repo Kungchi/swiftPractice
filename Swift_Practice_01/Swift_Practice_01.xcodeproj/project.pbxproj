@@ -12,6 +12,7 @@
 		3B5E7CD029696E5700F49135 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B5E7CCF29696E5700F49135 /* ContentView.swift */; };
 		3B5E7CD229696E5800F49135 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B5E7CD129696E5800F49135 /* Assets.xcassets */; };
 		3B5E7CD529696E5800F49135 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B5E7CD429696E5800F49135 /* Preview Assets.xcassets */; };
+		3BD21408296B8EB600D8A6B2 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD21407296B8EB600D8A6B2 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3B5E7CCF29696E5700F49135 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3B5E7CD129696E5800F49135 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B5E7CD429696E5800F49135 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BD21407296B8EB600D8A6B2 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3B5E7CCD29696E5700F49135 /* Swift_Practice_01App.swift */,
 				3B5E7CCF29696E5700F49135 /* ContentView.swift */,
 				3B4D7402296AE351002FA576 /* CircleImage.swift */,
+				3BD21407296B8EB600D8A6B2 /* MapView.swift */,
 				3B5E7CD129696E5800F49135 /* Assets.xcassets */,
 				3B5E7CD329696E5800F49135 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B5E7CD029696E5700F49135 /* ContentView.swift in Sources */,
+				3BD21408296B8EB600D8A6B2 /* MapView.swift in Sources */,
 				3B5E7CCE29696E5700F49135 /* Swift_Practice_01App.swift in Sources */,
 				3B4D7403296AE351002FA576 /* CircleImage.swift in Sources */,
 			);
